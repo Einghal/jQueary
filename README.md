@@ -19,7 +19,7 @@ Eemeli Lehessalo
 Muistilista käyttäen jQueryä
 
 ## Screenshots
-![Toimiva-sovellus](demokuva.png)
+![Toimiva-sovellus](images/demokuva.png)
 
 
 ## Technologies
